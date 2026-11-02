@@ -1,0 +1,6 @@
+NXDL standalone ELF smoke test v2 (prepare before map)
+PASS: calls=12,13 counter=9 relative=13 weak=NULL init=1
+PASS: close and finalizer event=2
+RESULT: PASS
+Output: sdmc:/switch/nxdl/smoke-output.txt
+Press + to exit

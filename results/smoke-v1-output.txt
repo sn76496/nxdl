@@ -1,0 +1,5 @@
+NXDL standalone ELF smoke test
+FAIL load: segment permission failed: 0x0000d401
+RESULT: FAIL
+Output: sdmc:/switch/nxdl/smoke-output.txt
+Press + to exit

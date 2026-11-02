@@ -1,0 +1,2 @@
+/* SPDX-License-Identifier: MPL-2.0 */
+{ global: plugin_add; counter; counter_address; private_address; weak_address; local: *; };
